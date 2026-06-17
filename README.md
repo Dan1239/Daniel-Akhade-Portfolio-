@@ -2,7 +2,7 @@
 
 🚀 Data Analyst | Chemical Engineer| Operations Professional
 
-Welcome to my GitHub profile! This space showcases projects I've built, contributed to, and delivered across engineering, data analytics, automation, business operations, and artificial intelligence.
+Welcome to my GitHub profile! This space showcases projects I've built, contributed to, and delivered across business operations, data analytics, automation and artificial intelligence.
 
 ---
 
